@@ -1,5 +1,5 @@
 # Room-Surplus
-🌈It was one of the gadgets I wrote about during my college life.
+🌈One of the university quick use scripts.
 
 RoomSurplus is suitable for electricity bill inquiry under the e-campus(易校园) platform
 ## What use
